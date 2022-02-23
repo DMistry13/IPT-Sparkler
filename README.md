@@ -5,5 +5,4 @@ Scripts run on original videos - not uploaded. But the python script anddata gen
 
 Then post.py runs through all the .csv files and makes subsequent plots. All the videos are not uploaded as the compression time is long. 
 
-Video
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=pTttXKcVV90&t=257s.jpg)](https://www.youtube.com/watch?v=pTttXKcVV90&t=257s)
+[![Video of data prep](https://www.youtube.com/watch?v=pTttXKcVV90&t=257s.jpg)](https://www.youtube.com/watch?v=pTttXKcVV90&t=257s)
